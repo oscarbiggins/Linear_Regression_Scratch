@@ -21,4 +21,4 @@ Data Simulation: Includes a built-in data generator using Gaussian noise to simu
 Ensure you have NumPy installed: pip install numpy
 
 Run the script: 
-python linear_regression_scratch.py
+`python linear_regression_scratch.py`
