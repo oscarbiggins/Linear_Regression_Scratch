@@ -18,7 +18,7 @@ Vectorization: Optimized for performance using NumPy's C-based array operations 
 Data Simulation: Includes a built-in data generator using Gaussian noise to simulate real-world data variance.
 
 ## How to Run
-Ensure you have NumPy installed: pip install numpy
+Ensure you have NumPy installed: `pip install numpy`
 
 Run the script: 
 `python linear_regression_scratch.py`
